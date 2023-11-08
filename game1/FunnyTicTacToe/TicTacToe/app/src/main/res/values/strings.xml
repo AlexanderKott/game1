@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Funny Tic-Tac-Toe</string>
+    <string name="yourMove">Your move</string>
+    <string name="versusPC">Play versus\n computer</string>
+    <string name="draw">Draw &#128564;</string>
+    <string name="o_wins">&#128081; O wins! &#128081;</string>
+    <string name="x_wins">&#128081; X Wins! &#128081;</string>
+    <string name="cheat">hey! what are you doing &#128512;</string>
+    <string name="game_in_progress">Game in progress</string>
+    <string name="cheating2">unfair round &#128556;</string>
+    <string name="displayState" translatable="false"><![CDATA[<font color="blue">X %4$s:%1$d</font>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>%2$s</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<font color="red">O %4$s:%3$d</font>]]></string>
+    <string name="error">Error</string>
+    <string name="hint">Hint: long tap &#128526;</string>
+    <string name="scores">scores</string>
+    <string name="welcome">Welcome!</string>
+    <string name="about">&#128081; The Funny Tic-Tac-Toe v1.0 &#128081;\n freeware\n Coding: Kotikov Alexander \n e-mail: ak.developer.apps@gmail.com \n\n Logo font from www.font-generator.com\n\n Icons made by <a href="https://www.freepik.com" title="Freepik">Freepik</a> from <a href="https://www.flaticon.com/" title="Flaticon">www.flaticon.com</a>\n\n Music by Eric Matyas www.soundimage.org\n\n Sound effects by Kenney (www.kenney.nl)</string>
+    <string name="Playversusphone">Play versus phone</string>
+    <string name="twoplayers">Two players</string>
+    <string name="Sound">music</string>
+
+
+</resources>
